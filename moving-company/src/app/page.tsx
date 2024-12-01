@@ -163,7 +163,7 @@ export default function HomePage() {
               </CardContent>
             </Card>
             <Card>
-              <CardContent className<CardContent className="flex flex-col items-center space-y-4 p-6">
+              <CardContent className="flex flex-col items-center space-y-4 p-6">
                 <div className="flex gap-1">
                   <Star className="h-5 w-5 fill-primary text-primary" />
                   <Star className="h-5 w-5 fill-primary text-primary" />
